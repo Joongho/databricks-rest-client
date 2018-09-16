@@ -1,4 +1,6 @@
 
+testing
+
 # How To Run Integration Tests
 You need to set the following environment properties in your .bash_profile
 export DB_USER=myuser@domain.com
